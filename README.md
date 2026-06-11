@@ -18,9 +18,9 @@ Passionate about Data Science, AI, and Software Development
 ## 📌 Featured Projects
 
 - 🔗 [Survey Server — REST, gRPC & MongoDB](https://github.com/aovp-19/ProyectoFinalWeb)
-- 🔗 [Business Intelligence: Procurement Analysis](https://github.com/aovp-19/Proyecto_final_ICC-321)
+- 🔗 [Business Intelligence: Procurement Analysis](https://github.com/aovp-19/ProyectoFinalBI)
 - 🔗 [Computer Store — Java Swing + SQL Server](https://github.com/aovp-19/ProyectoBD)
-- 🔗 [Computer Store — Java Swing (OOP)](https://github.com/aovp-19/FinalProjectPOO)
+- 🔗 [Computer Store — Java Swing (OOP)](https://github.com/aovp-19/ProyectoFinalPOO)
 
 ---
 
