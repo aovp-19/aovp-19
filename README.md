@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Almy Ventura 👋
 
-<!--
-**aovp-19/aovp-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering Student at PUCMM · Santiago, Dominican Republic  
+Secretary of the CS Engineering Student Committee  
+Passionate about Data Science, AI, and Software Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages:** Python · Java · C/C++ · JavaScript · C# · R · SQL  
+**Web & DB:** HTML · CSS · Node.js · REST APIs · gRPC · MongoDB · SQL Server  
+**Data & ML:** Pandas · NumPy · Scikit-learn · Tableau  
+**Tools:** Git · Linux · Docker · VS Code
+
+---
+
+## 📌 Featured Projects
+
+- 🔗 [Survey Server — REST, gRPC & MongoDB](https://github.com/aovp-19/ProyectoFinalWeb)
+- 🔗 [Business Intelligence: Procurement Analysis](https://github.com/aovp-19/Proyecto_final_ICC-321)
+- 🔗 [Computer Store — Java Swing + SQL Server](https://github.com/aovp-19/ProyectoBD)
+- 🔗 [Computer Store — Java Swing (OOP)](https://github.com/aovp-19/FinalProjectPOO)
+
+---
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Almy%20Ventura-blue?logo=linkedin)](https://linkedin.com/in/almy-ventura)
