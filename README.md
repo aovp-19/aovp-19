@@ -5,6 +5,7 @@ Secretary of the CS Engineering Student Committee (CICC)
 Passionate about Data Science, Machine Learning, and Software Development
 
 🎯 **Currently:** Actively seeking a Data Science / Machine Learning internship
+
 📚 **Learning:** Deep Learning Specialization (DeepLearning.AI) · Microsoft Data Scientist Career Path
 
 ---
