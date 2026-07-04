@@ -12,8 +12,11 @@ Passionate about Data Science, Machine Learning, and Software Development
 ## 🛠️ Tech Stack
 
 **Languages:** Python · R · Java · C/C++ · JavaScript · SQL
+
 **Data & ML:** Pandas · NumPy · Scikit-learn · Tableau · Neural Networks (foundations)
+
 **Web & DB:** Node.js · REST APIs · gRPC · MongoDB · PostgreSQL · SQL Server
+
 **Tools:** Git · GitHub · Linux · Docker · VS Code
 
 ---
