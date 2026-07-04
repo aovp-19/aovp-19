@@ -39,6 +39,4 @@ Passionate about Data Science, Machine Learning, and Software Development
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Almy%20Ventura-blue?logo=linkedin)](https://linkedin.com/in/almy-ventura-7b453b383)
 [![Gmail](https://img.shields.io/badge/Email-almyventura1908%40gmail.com-red?logo=gmail)](mailto:almyventura1908@gmail.com)
 
----
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aovp-19&show_icons=true&theme=default)
